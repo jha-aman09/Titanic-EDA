@@ -44,6 +44,14 @@ The EDA notebook (`Titanic_Exploratory_data_analysis.ipynb`) covers the followin
 4. **📚 Visualization Libraries**:
    - Use `matplotlib` and `seaborn` for generating plots.
 
+## 📊 Power BI Visualization
+
+This repository also includes an interactive visualization of the Titanic dataset using Power BI. The `.pbix` file (`Titanic_EDA.pbix`) contains insights and dashboards created for better understanding and reporting.
+
+You can access the Power BI report online here:
+
+[Power BI Visualization Link](https://app.powerbi.com/view?r=eyJrIjoiNzMxZTg2NDYtNTMzNy00OTVhLWE2OTItMDQ1M2Y0ODc1ZTM0IiwidCI6IjUzYmM4OGU5LWI2YzQtNGQ4ZS04ZGVmLWUyNjUxNGZiNmM1OSIsImMiOjEwfQ%3D%3D)
+
 ## 🚀 How to Clone and Run the Code
 
 ### 📂 Clone the Repository
@@ -75,7 +83,7 @@ pip install pandas numpy matplotlib seaborn
 
 Alternatively, you can access the notebook directly in Google Colab:
 
-[Titanic EDA](https://colab.research.google.com/drive/1aL8dNGQl9K0qjzDQ2T6C831DeZdOypRi?usp=sharing)
+[Google Colab Link](https://colab.research.google.com/drive/1aL8dNGQl9K0qjzDQ2T6C831DeZdOypRi?usp=sharing)
 
 ## 👤 Author
 
@@ -83,7 +91,7 @@ Alternatively, you can access the notebook directly in Google Colab:
 
 - **Field**: Data Science (BCA Student at GGSIPU)
 - **Skills**: Data Analysis, Python, Power BI, Machine Learning, and more.
-- **GitHub**: [Aman Jha](https://github.com/jha-aman09)
+- **GitHub**: [your_github_profile](https://github.com/jha-aman09)
 
 ## 💬 Feedback
 
