@@ -91,7 +91,7 @@ Alternatively, you can access the notebook directly in Google Colab:
 
 - **Field**: Data Science (BCA Student at GGSIPU)
 - **Skills**: Data Analysis, Python, Power BI, Machine Learning, and more.
-- **GitHub**: [your_github_profile](https://github.com/jha-aman09)
+- **GitHub**: [Aman Jha](https://github.com/jha-aman09)
 
 ## 💬 Feedback
 
